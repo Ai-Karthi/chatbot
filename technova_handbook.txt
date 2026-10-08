@@ -1,0 +1,333 @@
+TechNova Solutions - IT Employee Handbook & Policy Manual
+
+Document Version: 2.1
+Target Audience: All Full-Time, Part-Time, and Contract IT Personnel
+Effective Date: October 2026  
+
+
+
+1. Welcome & Introduction
+
+1.1 Company Overview
+
+Welcome to TechNova Solutions. We are an innovative IT services and product engineering firm specializing in distributed cloud infrastructure, enterprise software, and artificial intelligence solutions. Our mission is to deliver high-reliability software while cultivating an autonomous, transparent, and high-performance engineering culture.
+
+
+1.2 Purpose of This Handbook
+
+This manual serves as a definitive operational guide regarding your rights, obligations, benefits, code of conduct, compensation structures, performance benchmarks, and offboarding protocols. All policies herein are designed to be clear, actionable, and binding across all global operating units.
+
+
+
+2. Workplace Guidelines & Code of Conduct
+
+2.1 Working Hours, Core Availability & Overtime
+
+
+Standard Work Week: 40 hours per week, Monday through Friday.
+
+Core Collaboration Hours: 10:00 AM to 4:00 PM (Local Time). All software engineers, DevOps specialists, and support staff must remain accessible via Slack/Teams and email during core hours.
+
+Flexible Schedules: Asynchronous work outside core hours is permitted subject to team lead sign-off, provided deliverables, code reviews, and on-call shifts are fulfilled.
+
+On-Call & Weekend Work: Engineering personnel participating in 24/7 on-call production rotas receive an On-Call Allowance of $350 / ₹15,000 per rotation week, plus compensatory off-days (comp-off) for critical incidents exceeding 2 hours outside business hours.
+
+
+2.2 Remote Work, Hybrid Model & Home Office Setup
+
+
+Work Models:
+Fully Remote: Subject to departmental approval and verifiable secure home infrastructure.
+Hybrid: Mandatory 2 days per week at the designated development center (Tuesdays and Thursdays).
+
+Home Office Infrastructure Grant: Every full-time hire receives a one-time non-taxable equipment reimbursement of up to $800 / ₹50,000 to purchase ergonomic chairs, monitors, UPS power backups, and work desks. An itemized invoice must be submitted within 60 days of joining.
+
+Broadband Stipend: Monthly internet reimbursement capped at $40 / ₹2,000 processed alongside standard monthly payroll.
+
+
+2.3 Company Assets, Equipment & Acceptable Use
+
+
+Hardware Provisioning: Each engineer is issued an enterprise-grade laptop (MacBook Pro M-Series or ThinkPad P-Series), encrypted with FileVault/BitLocker and managed by MDM (Mobile Device Management) software.
+
+Security & Usage Restrictions:
+Installation of unvetted third-party software, peer-to-peer (P2P) file sharing, and cryptocurrency mining is strictly prohibited.
+Corporate hardware must not be used by non-employees under any circumstances.
+Removable media (USB drives/external SSDs) are disabled by default; access requires Security Operations Center (SOC) clearance.
+
+
+2.4 Information Security, Data Protection & Non-Disclosure (NDA)
+
+
+Confidentiality: All source code, proprietary algorithms, database schemas, internal communications, customer datasets, and architectural diagrams are strictly confidential.
+
+Credential Hygiene: Multi-Factor Authentication (MFA) via hardware security keys or authenticator apps is mandatory across all internal platforms (GitHub, AWS, GCP, Google Workspace). Storing API keys or access tokens in unencrypted local files or public repositories results in immediate disciplinary review.
+
+Customer Data & Production Access: Production environment access is governed by the Principle of Least Privilege (PoLP) and requires Just-In-Time (JIT) elevation with multi-party approval.
+
+
+2.5 Intellectual Property & Invention Assignment
+
+
+Ownership: Any patent, copyright, software architecture, algorithm, script, or technical documentation created during employment—or utilizing company hardware, time, or facilities—belongs exclusively to TechNova Solutions.
+
+Open-Source Contribution Policy: Employees may contribute to external open-source projects only after receiving written confirmation from the Open Source Review Board (OSRB) verifying that no proprietary frameworks or trade secrets are exposed.
+
+
+2.6 Workplace Ethics, Equal Opportunity & Anti-Harassment (POSH)
+
+
+Zero Tolerance: TechNova enforces a strict zero-tolerance policy against discrimination, harassment, bullying, or verbal abuse based on race, gender, sexual orientation, disability, religion, or age.
+
+Internal Complaints Committee (ICC): All complaints regarding sexual harassment or hostile work environments are investigated confidentially within 7 business days by the ICC. Substantiated violations lead to summary termination and potential legal prosecution.
+
+
+
+3. Leave & Attendance Policies
+
+3.1 Annual Leave Entitlement Summary
+
+Full-time personnel are granted 30 paid days off per calendar year (January 1 – December 31), broken down as follows:
+
+
+Leave Category	Annual Allowance	Accrual Frequency	Carry Forward Policy	Encashment on Exit
+Paid Time Off (PTO) / Casual	18 Days	1.5 days/month	Max 10 days to next year	Yes (Calculated on Basic Pay)
+Medical / Sick Leave	8 Days	Credited Jan 1	No carry forward	No
+Floating / Optional Holidays	4 Days	Credited Jan 1	No carry forward	No
+Compensatory Off (Comp-Off)	As Earned	Upon Approval	Valid for 60 days	No
+
+3.2 Medical & Sick Leave Operational Guidelines
+
+
+Consecutive sick leave exceeding two (2) working days requires a registered medical practitioner's certificate submitted through the HR Portal.
+
+Chronic illness or hospitalization leave beyond the allocated 8 days may draw against accumulated PTO or convert to unpaid Medical Leave of Absence upon executive HR review.
+
+
+3.3 Parental, Maternity & Paternity Leave
+
+
+Maternity Leave: 26 continuous calendar weeks of fully paid leave for female employees (biological birth or adoption of a child under 1 year). An optional 8-week phased return-to-work program (part-time hours at full compensation) is accessible upon return.
+
+Paternity / Secondary Caregiver Leave: 4 continuous weeks of fully paid leave, redeemable within the first 6 months following childbirth or legal adoption.
+
+
+3.4 Sabbatical & Unpaid Leave of Absence
+
+
+Employees who have completed at least three (3) consecutive years of continuous service are eligible to request an unpaid sabbatical of up to 6 months for higher technical education, skill acquisition, or personal wellness.
+
+Sabbatical approval is contingent upon team bandwidth and requires approval from the Department Vice President and Chief People Officer. Health benefits continue during sabbatical periods; however, stock vesting schedules pause.
+
+
+
+4. Compensation, Payroll & Financial Benefits
+
+4.1 Salary Structure, Disbursal Dates & Overtime
+
+
+Payroll Cycle: Monthly salaries are calculated from the 1st to the end of the month and disbursed directly into nominated employee bank accounts on the last business day of every month.
+
+Direct Components:
+Basic Salary (40–50% of Total Fixed Pay)
+House Rent Allowance (HRA)
+Special Allowance / Flexible Benefit Plan (FBP)
+Statutory Retirals (Provident Fund / 401(k) matching up to 5% of Basic Pay)
+
+
+4.2 Performance Bonuses & Incentive Schemes
+
+
+Annual Performance Bonus (APB): Disbursed annually in March alongside appraisal cycles. The bonus payout ranges from 0% to 150% of the target bonus pool based on Company Business Multiplier (CBM) and Individual Performance Multiplier (IPM).
+
+Spot Bonuses: Team leads may award instant recognition bonuses ($250 to $1,000 / ₹15,000 to ₹75,000) for extraordinary effort during system incidents, critical release deadlines, or patent filings.
+
+
+4.3 Medical Insurance, Accidental Cover & Wellness Benefits
+
+
+Group Health Insurance: Comprehensive medical coverage covering employee, spouse, and up to two dependent children up to $10,000 / ₹700,000 per annum, inclusive of pre-existing condition cover.
+
+Term Life & Accidental Disability Cover: Life insurance equal to 3x annual gross fixed compensation.
+
+Mental Health Benefit: Free, confidential access to licensed clinical therapists via our external Employee Assistance Program (EAP) platform (up to 12 sessions per calendar year).
+
+
+4.4 Professional Learning, Certifications & Conference Budget
+
+
+Every technical employee is allocated a dedicated annual Upskilling Allowance of $1,200 / ₹80,000 for professional certifications (AWS, GCP, CKA, PMP, CISSP), technical book purchases, and recognized bootcamps.
+
+Examination fees are reimbursed at 100% upon presenting proof of passing and valid expense receipts.
+
+Engineers selected as speakers at accredited international developer conferences (e.g., PyCon, KubeCon, IEEE) receive complete company travel and accommodation coverage.
+
+
+
+5. Performance Appraisals, Promotion Framework & Career Ladders
+
+5.1 Engineering Career Ladder & Competency Matrix
+
+TechNova maintains a dual-track career progression model, allowing engineers to advance via an Individual Contributor (IC) track or an Engineering Management (EM) track.
+
+
+Level	Individual Contributor (IC) Track	Management (EM) Track	Primary Competencies & Expectations
+L1	Associate Software Engineer	—	Task-focused execution; cleans bugs; learns codebases; pair programming.
+L2	Software Engineer (SE)	—	Independently delivers module features; writes unit tests; conducts peer code reviews.
+L3	Senior Software Engineer (SSE)	Engineering Team Lead	Owns system architectures; unblocks peers; handles critical on-call incidents; mentors juniors.
+L4	Staff Engineer	Engineering Manager (EM)	Defines domain tech roadmaps; drives cross-team architecture; improves org engineering standards.
+L5	Principal Engineer / Architect	Director of Engineering	Company-wide system vision; leads complex strategic innovations; drives tech patents and compliance.
+
+5.2 Performance Review Cycle
+
+
+Biannual Cadence: Formal reviews occur every 6 months (Mid-year checkpoints in June; Annual calibration in December).
+
+360-Degree Feedback: Evaluations aggregate self-assessments, direct peer reviews (3 peers minimum), and managerial evaluations assessing delivery velocity, code maintainability, technical leadership, and adherence to company values.
+
+Rating System:
+5 - Exceeds All Expectations: Eligible for accelerated promotion and top-tier bonus multiplier.
+4 - Consistently Exceeds Expectations: Strong candidate for promotion consideration and above-target bonus.
+3 - Meets Expectations: Solid performer; standard merit increment and target bonus.
+2 - Needs Improvement: Structured support required; placed on monitoring (30–60 days).
+1 - Unsatisfactory: Initiates immediate formal Performance Improvement Plan (PIP).
+
+
+5.3 Promotion Criteria & Fast-Track Pathways
+
+
+Eligibility: Minimum tenure of 12 months at the current level with an average rating of 4.0 or above across the preceding two review cycles.
+
+Promotion Dossier: The candidate’s manager submits a formal promotion packet demonstrating that the employee has already been operating consistently at the target level for a minimum of 3 to 6 months.
+
+
+5.4 Performance Improvement Plan (PIP) Framework
+
+
+Employees failing to meet fundamental role expectations receive a written PIP detailing measurable milestones, designated mentorship, and a 45-day evaluation window.
+
+Mid-point review takes place at Day 22. If the employee demonstrates required benchmarks, the PIP successfully closes. Failure to meet documented standards by Day 45 leads to employment termination under standard severance terms.
+
+
+
+6. Grievance Redressal & Whistleblower Protections
+
+6.1 Grievance Escalation Process
+
+Employees with unresolved concerns regarding manager conduct, compensation fairness, or project allocation should follow the stepped escalation model:
+
+
+
+Step 1: Informal resolution with immediate Team Lead or Engineering Manager.
+
+Step 2: Escalation to the designated HR Business Partner (HRBP) if unresolved within 5 working days.
+
+Step 3: Formal hearing before the Grievance Redressal Committee (HR Director, Independent VP, and Chief Legal Counsel). A formal written decision is rendered within 10 business days.
+
+
+6.2 Whistleblower Protection & Anonymous Reporting
+
+
+Suspected financial fraud, security compromises, corruption, or legal non-compliance can be reported anonymously through the Secure Whistleblower Portal (whistleblower@technova-solutions.com).
+
+TechNova guarantees complete legal immunity from retaliation, reassignment, or demotion for any individual reporting incidents in good faith.
+
+
+
+7. Employee Rights & Workplace Freedoms
+
+
+Right to Disconnect: No employee is mandated to respond to non-critical internal communications (Slack/Teams/emails) outside of their agreed working hours or during approved paid leave, except during assigned on-call shifts.
+
+Diversity & Non-Discrimination: Complete equality regardless of background, gender, or personal identity.
+
+Fair Compensation: Transparency regarding salary bands and equal remuneration for equivalent responsibilities.
+
+Right to Representation: The right to be accompanied by a non-executive colleague during disciplinary or formal inquiry hearings.
+
+
+
+8. Separation, Resignation & Exit Formalities
+
+8.1 Notice Period Requirements
+
+Employees intending to resign from their position must submit a formal resignation through the HR Portal to notify both their reporting manager and People Operations.
+
+
+Employee Level / Designation	Standard Notice Period	Notice Buyout Allowed?	Approval Required
+Probationary Employees (All Levels)	15 Calendar Days	Yes	Immediate Manager
+L1 & L2 (Associate & Software Engineers)	30 Calendar Days	Yes (Subject to project handover)	Team Lead & HRBP
+L3, L4, L5 (Senior, Staff, Principal, EM)	60 Calendar Days	Rare (Contingent on leadership sign-off)	VP of Engineering & HR Director
+
+8.2 Notice Period Buyout & Calculations
+
+
+If an employee requests an early release date before the completion of the contractual notice duration, the company may, at its sole discretion, approve a Notice Buyout.
+
+Buyout Calculation Formula:
+$$\text{Buyout Amount} = \left( \frac{\text{Monthly Gross Basic Salary}}{30} \right) \times \text{Number of Unserved Notice Days}$$
+
+If TechNova requests an employee to exit immediately for non-disciplinary restructuring reasons, the company pays the gross basic salary for the unserved notice period in full.
+
+
+8.3 Garden Leave Provisions
+
+For senior architecture personnel (L4/L5) and leadership team members who have accepted employment with direct commercial competitors, TechNova reserves the right to place the employee on Garden Leave for up to 30 calendar days of their notice period. During this period, the employee remains on full payroll and benefits but is relieved of all daily duties and system access privileges.
+
+
+8.4 Asset Surrender, Security Revocation & Handover Protocol
+
+
+Access Revocation: All Single Sign-On (SSO) credentials, code repository access, AWS/GCP IAM roles, and internal database tokens are revoked precisely at 6:00 PM on the Last Working Day (LWD).
+
+Hardware Return: The issued company laptop, security tokens, company ID badges, and corporate credit cards must be returned in person or via insured company-paid courier to the Facilities Department within 3 business days of the LWD.
+
+Knowledge Transfer (KT): The departing employee must deliver a signed Handover Document outlining operational tickets, project architecture, and code ownership transitions, verified and countersigned by their reporting manager.
+
+
+8.5 Full & Final (F&F) Settlement Protocols
+
+
+Settlement Timeline: The comprehensive Full & Final settlement statement and financial disbursal are completed within 30 calendar days following the employee's Last Working Day.
+
+Components Included in F&F:
+Unpaid salary for working days in the departure month.
+Encashment of accumulated, unused Paid Time Off (PTO) days up to the maximum carry-over limit (calculated at: [Basic Salary / 30] * Unused PTO Days).
+Prorated annual statutory retiral settlements (Gratuity/Provident Fund/401k payouts as legally applicable).
+Applicable reimbursement claims submitted prior to LWD.
+
+Recoveries & Deductions:
+Value of unreturned corporate hardware, damages, or unaccounted equipment.
+Notice period shortfalls if an employee exits early without buyout approval.
+Recovery of Sign-On / Joining Bonus or Relocation Allowances if the employee resigns prior to completing twelve (12) continuous months of employment.
+
+
+8.6 Release of Experience & Relieving Letters
+
+
+Upon successful completion of asset handover, manager KT sign-off, and F&F settlement closure, People Operations issues:
+Formal Relieving Letter confirming release from employment without pending liabilities.
+Certificate of Service / Experience Letter detailing official job title, department, employment duration, and core responsibilities.
+
+These official documents are transmitted via digitally signed PDF to the employee's verified personal email address within 7 business days of F&F clearance.
+
+
+8.7 Post-Employment Covenants & Restrictive Obligations
+
+
+Non-Disclosure: The obligation to maintain absolute confidentiality regarding proprietary source code, algorithms, customer lists, and financial records continues perpetually post-employment.
+
+Non-Solicitation Agreement: For a period of twelve (12) calendar months following the official date of termination, the departed employee shall not directly or indirectly recruit, solicit, or induce any active TechNova employee or contractor to terminate their employment.
+
+Non-Compete Restrictions: Employees must strictly abide by the geographical and temporal limitations detailed in their individual employment agreements regarding direct competitive activities and client poaching.
+
+
+
+9. Handbook Administration & Modifications
+
+TechNova Solutions reserves the right to amend, update, or supersede any policy contained within this handbook to maintain compliance with changing labor laws or business requirements. Significant amendments are communicated via corporate broadcast at least 15 calendar days prior to coming into effect.
+
+
+
+TechNova Solutions People Operations & Legal Compliance Division
+For questions or operational queries, contact: hr-operations@technova-solutions.com

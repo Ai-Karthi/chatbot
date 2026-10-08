@@ -1,0 +1,90 @@
+[
+  {
+    "role": "user",
+    "content": "the technova company is provide any insurance policy"
+  },
+  {
+    "role": "assistant",
+    "content": "The Technova Company does not provide any specific insurance policies as part of its standard benefits package."
+  },
+  {
+    "role": "user",
+    "content": "this company provide any policies"
+  },
+  {
+    "role": "assistant",
+    "content": "The Technova Company provides a comprehensive set of guidelines and codes of conduct, including rules on workplace assets, hardware provisioning, usage restrictions, information security, data protection, and separation from employment. However, it does not explicitly mention providing specific insurance policies."
+  },
+  {
+    "role": "user",
+    "content": "what is purpose of the employee and book"
+  },
+  {
+    "role": "assistant",
+    "content": "The purpose of this handbook is to serve as a definitive operational guide regarding your rights, obligations, benefits, code of conduct, compensation structures, performance benchmarks, and offboarding protocols. It includes rules on workplace assets, hardware provisioning, usage restrictions, information security, data protection, and separation from employment. All policies herein are designed to be clear, actionable, and binding across all global operating units."
+  },
+  {
+    "role": "user",
+    "content": "explain leave policy"
+  },
+  {
+    "role": "assistant",
+    "content": "Under the leave policy outlined in the handbook, full-time employees are entitled to 30 paid days off annually, divided into four categories:\n\n1. **Paid Time Off (PTO)**: This category covers 18 days, with an additional 1.5 days added each month until you reach a maximum of 10 days for the following year. These days can be used for vacation, personal time, or other approved purposes.\n\n2. **Medical/Sick Leave**: Employees accrue 8 days of sick leave, which is credited January 1st. This allowance cannot be carried over to the next year. \n\n3. **Floating/Holiday Leave**: Employees earn 4 days of floating holidays, also credited January 1st. These days are not eligible for carrying forward but can be converted to unpaid Medical Leave of Absence if needed.\n\n4. **Compensatory Off"
+  },
+  {
+    "role": "user",
+    "content": "what is the exact salary of a data scientist at technova"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have that information in the TechNova handbook."
+  },
+  {
+    "role": "user",
+    "content": "cat 10 + 10 into 2"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have that information in the TechNova handbook."
+  },
+  {
+    "role": "user",
+    "content": "multiple 10 + 10"
+  },
+  {
+    "role": "assistant",
+    "content": "The sum of 10 plus 10 equals 20."
+  },
+  {
+    "role": "user",
+    "content": "what is your name"
+  },
+  {
+    "role": "assistant",
+    "content": "My name is TechNova Solutions AI HR and Career Assistant."
+  },
+  {
+    "role": "user",
+    "content": "benefits are available to employees"
+  },
+  {
+    "role": "assistant",
+    "content": "Benefits available to employees include comprehensive medical coverage, accidental disability cover, mental health benefit, and fair compensation transparency. Additionally, there's an option for full-time personnel to accrue 18 days of paid time off annually."
+  },
+  {
+    "role": "user",
+    "content": "can you explain about this company??"
+  },
+  {
+    "role": "assistant",
+    "content": "Certainly! TechNova Solutions is an innovative IT services and product engineering firm focused on delivering high-reliability software through distributed cloud infrastructure, enterprise software, and artificial intelligence solutions. The company aims to cultivate an autonomous, transparent, and high-performance engineering culture. Their mission is to provide exceptional service by leveraging cutting-edge technology."
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  }
+]
